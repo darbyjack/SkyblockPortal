@@ -1,0 +1,6 @@
+name: Skyblockportal
+version: ${project.version}
+main: me.glaremasters.skyblockportal.Skyblockportal
+depend: [ASkyBlock]
+authors: [blockslayer22]
+description: Skyblock Portal
